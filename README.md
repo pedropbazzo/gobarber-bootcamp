@@ -5,12 +5,7 @@ Go Barber Web é uma app feito em ReactJS durante o Bootcamp da Rocketseat. Trat
 
 ## Instalando e Executando
 
-Faça o clone do repositório
-
 ```
-git clone https://github.com/tavareshenrique/go-barber-web.git
-```
-
 Instale as dependências
 
 ```
@@ -71,7 +66,6 @@ npm start
         <img src="" width="100px;" alt="Pedro Bazzo"/>
         <br />
         <sub>
-          <b>Henrique Tavares</b>
         </sub>
        </a>
        <br />
